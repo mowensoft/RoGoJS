@@ -1,4 +1,4 @@
-RoGoJS
+RoGo JS
 ======
 
-Yet another JavaScript framework
+Use this in production!
