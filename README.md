@@ -1,4 +1,4 @@
-RoGo JS
+RoGoJS
 ======
 
 Use this in production!
